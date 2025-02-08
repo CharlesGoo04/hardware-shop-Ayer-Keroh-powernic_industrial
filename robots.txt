@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charlesgoo04.github.io/powernicindustiral/sitemap.xml 
